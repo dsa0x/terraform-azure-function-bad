@@ -33,6 +33,10 @@ variable location {
   type = list(string)
 }
 
+variable notype {
+  description = "No type Defines a list of azure locations to deploy the resource. If multiple locations are spec
+}
+
 variable name_suffix {
   description = "An optional suffix for your resources. By default, this is blank if in the default workspace and appends '-workspacename' if in a non-default workspace"
   type = string
