@@ -34,7 +34,7 @@ variable location {
 }
 
 variable notype {
-  description = "No type Defines a list of azure locations to deploy the resource. If multiple locations are spec
+  description = "No type Defines a list of azure locations to deploy the resource. If multiple locations are spec"
 }
 
 variable name_suffix {
