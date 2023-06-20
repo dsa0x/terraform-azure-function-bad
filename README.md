@@ -2,11 +2,6 @@
 
 Deploys an opinionated Azure Functions Powershell infrastructure with intelligent defaults.
 
-⚠️
-🟢
-🔴
-🟡
-
 <br>
 
 > :warning:, :red_circle:, :green_circle:
