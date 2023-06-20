@@ -1,4 +1,4 @@
-[Available on Terraform Module Registry](https://registry.terraform.io/modules/JustinGrote/azure-function-powershell/)
+Latest re [Available on Terraform Module Registry](https://registry.terraform.io/modules/JustinGrote/azure-function-powershell/)
 
 Deploys an opinionated Azure Functions Powershell infrastructure with intelligent defaults.
 
