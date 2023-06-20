@@ -7,6 +7,8 @@ Deploys an opinionated Azure Functions Powershell infrastructure with intelligen
 🔴
 🟡
 
+> ⚠️, 🟢, 🔴
+
 This was designed and tested for Powershell, however other workers _may_ work by setting the `azurerm_function_app_runtime` variable.
 <!-- TOC -->
 
