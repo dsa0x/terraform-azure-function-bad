@@ -7,10 +7,13 @@ Deploys an opinionated Azure Functions Powershell infrastructure with intelligen
 🔴
 🟡
 
-> :warning, :red_circle, :green_circle
+<br>
 
-:warning
-:green_circle
+> :warning:, :red_circle:, :green_circle:
+
+:warning:
+:green_circle:
+
 
 This was designed and tested for Powershell, however other workers _may_ work by setting the `azurerm_function_app_runtime` variable.
 <!-- TOC -->
