@@ -179,4 +179,3 @@ resource "azurerm_function_app" "this" {
     ignore_changes = ["app_settings"]
   }
   tags = local.global_tags
-}
